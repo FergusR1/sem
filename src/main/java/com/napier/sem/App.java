@@ -1,8 +1,7 @@
 package com.napier.sem;
 
 public class App {
-    public static void main(String[] args)
-    {
-        System.out.println("this sucks");
+    public static void main(String[] args) {
+        System.out.println("Getting Better");
     }
 }
